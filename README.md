@@ -11,7 +11,7 @@
 ### Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations
 |Name|Paper|Code
 |---|---|---|
-|DiCE|[[FAT 2021] Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697)|[Tensorflow/PyTorch/sklearn](https://github.com/interpretml/DiCE)
+|DiCE|[[FAT 2021] Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf)|[Tensorflow/PyTorch/sklearn](https://github.com/interpretml/DiCE)
 
 1. Model-agnostic methods
 - Randomized sampling
