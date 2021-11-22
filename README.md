@@ -1,6 +1,6 @@
 # CSE-472-Project-2: Understanding Text Classifiers with Counterfactual Explanation
 
-### Mitigate Impact Spurious Correlation for Text Classification with Counterfactual Methods
+### Mitigate Impact of Spurious Correlation for Text Classification with Counterfactual Methods
 |Name|Paper|Code
 |---|---|---|
 |CLP|[[AAAI 2019] Counterfactual Fairness in Text Classification through Robustness](https://arxiv.org/pdf/1809.10610.pdf)|[PyTorch](https://github.com/SaiSakethAluru/Counterfactual-fairness)
