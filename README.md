@@ -8,4 +8,10 @@
 |AGC|[[AAAI 2021] Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://dl.acm.org/doi/pdf/10.1145/3306618.3317950)|[Pytorch](https://github.com/tapilab/aaai-2021-counterfactuals)
 
 
-
+### Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations
+|Name|Paper|Code
+|---|---|---|
+|DiCE|[[FAT 2021] Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697)|[Tensorflow](https://github.com/interpretml/DiCE)
+|Random Sampling|
+|Genetic Algorithm|
+|Querying K-D tree|
