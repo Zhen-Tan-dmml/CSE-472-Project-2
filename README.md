@@ -12,11 +12,12 @@
 |Name|Paper|Code
 |---|---|---|
 |DiCE|[[FAT 2021] Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697)|[Tensorflow/PyTorch/sklearn](https://github.com/interpretml/DiCE)
-Model-agnostic methods
+
+1. Model-agnostic methods
 - Randomized sampling
 - KD-Tree (for counterfactuals within the training data)
 - Genetic algorithm
 
-Gradient-based methods
+2. Gradient-based methods
 - An explicit loss-based method described in Mothilal et al. (2020) (Tensorflow/PyTorch)
 - A Variational AutoEncoder (VAE)-based method described in Mahajan et al. (2019)
