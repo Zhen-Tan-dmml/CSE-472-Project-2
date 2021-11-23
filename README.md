@@ -16,5 +16,4 @@
 |Genetic algorithm|[A fast and elitist multiobjective genetic algorithm: NSGA-II](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996017)|
 |KD-Tree|[Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/pdf/1907.02584.pdf)|
 |An explicit loss-based method|[[FAT 2021] Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/pdf/1905.07697.pdf)|[Tensorflow/PyTorch](https://github.com/interpretml/DiCE)
-|VAE-based method|[Preserving Causal Constraints in Counterfactual
-Explanations for Machine Learning Classifiers](https://arxiv.org/pdf/1912.03277.pdf)|[Tensorflow/PyTorch](https://github.com/divyat09/cf-feasibility)
+|VAE-based method|[Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classifiers](https://arxiv.org/pdf/1912.03277.pdf)|[Tensorflow/PyTorch](https://github.com/divyat09/cf-feasibility)
